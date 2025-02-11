@@ -15,6 +15,6 @@ The value $k$ defines the number of latent factors, which capture implicit patte
 
 ## Example
 
-Imagine a futuristic scenario, at a party illuminated by soft neon lights and nice ambient sound in the background. Robbie, a curious and music-loving robot, finds himself at the center of a rather peculiar chatting circle. Around him, four iconic figures discuss their favorite music styles: Ripley, Darth Vader, Spock and Hermione. Robbie adjusts...
+Imagine a futuristic scenario, at a party illuminated by soft neon lights and nice ambient sound in the background. Robbie, a curious and music-loving robot, finds himself at the center of a rather peculiar chatting circle. Around him, four iconic figures discuss their favorite music styles: Ripley, Darth Vader, Spock and Hermione. Robbie adjusts his hearing sensors...
 
 Read the full article: [Matrix Factorization](https://physicscomputerlove.com/en/machine-learning/matrix-factorization/)
